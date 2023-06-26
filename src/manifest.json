@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "com.johnclaytonmoore.joplin-plugin-autoalarm",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Auto Alarm",
+	"description": "Sets an alarm for to-do notes based on tags",
+	"author": "John Moore",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": []
+}
